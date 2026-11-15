@@ -6,6 +6,8 @@ import MainContent from './MainContent';
 
 // Test suite for the MainContent component
 
+// Another comment
+
 describe('MainContent', () => {
   it('should render a button', () => {
     render(<MainContent />);
